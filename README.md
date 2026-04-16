@@ -7,12 +7,12 @@ Este projeto é uma API RESTful desenvolvida com **Django** e **Django REST Fram
 ---
 
 ## Integrantes do Grupo
+* Marcelle Lohane 
 * Bryan Amorim dos Santos
 * Gustavo Salvador
 * Julia Curto
-* 
-*
-*
+* Gabriel Correa
+* Mateus Sachinho
 
 ---
 
